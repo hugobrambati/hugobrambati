@@ -7,7 +7,7 @@
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugo_brambati/)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugobrambati&langs_count=8)](https://github.com/hugobrambati)
 ![Hugo Brambati GitHub stats](https://github-readme-stats.vercel.app/api?username=hugobrambati&show_icons=true&theme=dracula)
 
 ### Tecnologias em Estudo
@@ -24,3 +24,4 @@
 </div><br/>
 
 Estudante de Analise e desenvolvimento de Sistema 👨🏻‍🎓, tecnico em informatica 💻 em trasição de carreira🏃🏻
+
