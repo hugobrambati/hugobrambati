@@ -23,5 +23,5 @@
 
 </div><br/>
 
-Estudante de Analise e desenvolvimento de Sistema 👨🏻‍🎓, tecnico em informatica 💻 em trasição de carreira🏃🏻
+Estudante de Redes de Computadores 👨🏻‍🎓, tecnico em informatica 💻 em trasição de carreira🏃🏻
 
