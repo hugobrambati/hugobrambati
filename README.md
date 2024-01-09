@@ -21,5 +21,5 @@
 
 </div><br/>
 
-Estudante de Redes de Computadores 👨🏻‍🎓, tecnico em informatica 💻 em trasição de carreira🏃🏻
+Estudante de Ciências de Dados 👨🏻‍🎓, tecnico em informatica 💻 em trasição de carreira🏃🏻
 
