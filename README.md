@@ -21,5 +21,5 @@
 
 </div><br/>
 
-Estudante de Ciências de Dados 👨🏻‍🎓, tecnico em informatica 💻 em trasição de carreira🏃🏻
+Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍🎓, tecnico em informatica 💻 em trasição de carreira🏃🏻
 
